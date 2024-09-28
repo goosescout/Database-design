@@ -1,0 +1,20 @@
+api_name,verbose_name,highlight_name
+python3.11,Python 3.11,python
+python3.10,Python 3.10,python
+pypy,PyPy 3.9,python
+c++,GNU C++20,c_cpp
+golang,Go 1.19,golang
+haskell,Haskell 8,haskell
+java,Java JDK 17,java
+rust,Rust 1.62,rust
+c,GNU C11,c_cpp
+nodejs,Node.js 18,javascript
+c#mono,C# Mono 6.8,csharp
+c#net,C# .NET 6.0,csharp
+php,PHP 8.1,php
+ruby,Ruby 3.1,ruby
+perl,Perl 5.34,perl
+bash,Bash 5.1,bash
+kotlin,Kotlin 1.6,kotlin
+scala,Scala 3.1,scala
+swift,Swift 5.5,swift

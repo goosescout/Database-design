@@ -1,0 +1,16 @@
+name,main_description,in_description,out_description,time_limit,memory_limit,rating_system,difficulty,comment
+Sorting Algorithm,Implement a sorting algorithm,Unsorted array,Sorted array,1000,256,Standard,100,
+Binary Search,Implement binary search,Sorted array and target value,Index of target value,1000,128,Standard,,
+Graph Traversal,Implement BFS and DFS,Graph representation,Traversal order,3000,512,Standard,,
+Dynamic Programming,Implement a DP solution,Problem constraints,Optimal solution,4000,1024,Standard,,
+String Matching,Implement string matching algorithm,Text and pattern,Indices of matches,2000,256,Standard,,
+Prime Numbers,Generate prime numbers,Range of numbers,List of primes,1000,128,Standard,50,Mathematical problem
+Pathfinding,Implement A* algorithm,Grid with obstacles,Shortest path,3000,512,Standard,,Pathfinding in grids
+Knapsack Problem,Solve the knapsack problem,Items with weights and values,Maximum value,4000,1024,Standard,,Optimization problem
+Palindrome Check,Check if a string is a palindrome,Input string,Boolean result,1000,128,Standard,75,Simple string problem
+Fibonacci Sequence,Generate Fibonacci sequence,Number of terms,Sequence of terms,2000,256,Standard,20,
+Matrix Multiplication,Multiply two matrices,Matrices A and B,Resultant matrix,3000,512,Standard,43,
+Sudoku Solver,Solve a Sudoku puzzle,,,4000,1024,Standard,59,Constraint satisfaction problem
+Anagram Check,Check if two strings are anagrams,Two input strings,Boolean result,1000,128,Standard,15,Simple string problem
+Merge Intervals,Merge overlapping intervals,List of intervals,Merged intervals,2000,256,Standard,35,
+LRU Cache,,Cache operations,Cache state,3000,512,Standard,4,Data structure problem
